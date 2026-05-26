@@ -1,1 +1,15 @@
-{"name":"法人税理論 一問一答","short_name":"法人税理論","start_url":"/hojinzei-app/hojinzei_hisshu.html","display":"standalone","background_color":"#f0faf0","theme_color":"#4caf50","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png"}]} 
+{
+  "name": "法人税理論 一問一答",
+  "short_name": "法人税理論",
+  "start_url": "/hojinzei-app/hojinzei_hisshu.html",
+  "display": "standalone",
+  "background_color": "#f0faf0",
+  "theme_color": "#4caf50",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
