@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.zeitumuri.hojinzei",
+    "sha256_cert_fingerprints": [
+      "34:03:10:D3:69:B8:36:1C:4C:A3:74:57:47:11:8A:EC:07:C2:68:BA:B0:CE:C1:27:97:77:31:07:1F:A3:B4:6F"
+    ]
+  }
+}]
